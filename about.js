@@ -3,3 +3,7 @@ let profile = {
     nationality: 'Portugal',
     club: 'Juventus'
 }
+
+let docs = {
+    name: 'Documentation'
+}
