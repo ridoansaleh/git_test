@@ -8,6 +8,6 @@ let docs = {
     name: 'Documentation'
 }
 
-let region = {
-    name: 'Kuningan'
-}
+let region = [
+    'Meruya Selatan'
+]
