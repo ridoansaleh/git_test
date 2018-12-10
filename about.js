@@ -7,3 +7,7 @@ let profile = {
 let docs = {
     name: 'Documentation'
 }
+
+let region = {
+    name: 'Kuningan'
+}
