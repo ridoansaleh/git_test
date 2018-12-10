@@ -11,3 +11,5 @@ let docs = {
 let region = {
     name: 'Kuningan'
 }
+
+console.log('Hello')
